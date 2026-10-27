@@ -1,5 +1,4 @@
 # Apresentacao_Persona
-Um pouco mais sobre mim
 # Olá, eu sou a Jussara Santos! 👋
 
 **Especialista em Gestão Operacional & Graduanda em Ciência de Dados**  
